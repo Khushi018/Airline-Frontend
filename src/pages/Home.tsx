@@ -72,7 +72,7 @@ const Home = () => {
                 currentSlide === index ? 'bg-white' : 'bg-white/50'
               }`}
               onClick={() => setCurrentSlide(index)}
-            />b 
+            />
           ))}
         </div>
       </div>
